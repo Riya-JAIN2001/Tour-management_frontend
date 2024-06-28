@@ -1,0 +1,1 @@
+export const BASE_URL='https://tour-management-app-backend-2.onrender.com/api/v1'
